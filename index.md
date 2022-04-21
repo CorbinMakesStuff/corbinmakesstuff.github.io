@@ -13,3 +13,7 @@ Cool stuff coming in the future ;)
 [StartupLoader](https://github.com/CorbinMakesStuff/StartupLoader)
 
 [Rickroll](https://github.com/CorbinMakesStuff/Rickroll)
+
+
+> The first draft of anything is sh*t.
+> - Ernest Hemingway.
