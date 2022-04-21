@@ -1,19 +1,19 @@
-### Hello World!
+# Hello World!
 
 I'm Corbin, I develop using batch as of now but I am currently learning to develop with more mainstream languages.
 
 Cool stuff coming in the future ;)
 
 
-# My Projects {.tabset}
+## My Projects
 
-## [Batch Multitool](https://github.com/CorbinMakesStuff/Batch-Multitool)
+### [Batch Multitool](https://github.com/CorbinMakesStuff/Batch-Multitool)
 
-## [Website Stealer](https://github.com/CorbinMakesStuff/Website-Stealer)
+### [Website Stealer](https://github.com/CorbinMakesStuff/Website-Stealer)
 
-## [StartupLoader](https://github.com/CorbinMakesStuff/StartupLoader)
+### [StartupLoader](https://github.com/CorbinMakesStuff/StartupLoader)
 
-## [Rickroll](https://github.com/CorbinMakesStuff/Rickroll)
+### [Rickroll](https://github.com/CorbinMakesStuff/Rickroll)
 
 
 
