@@ -7,13 +7,13 @@ Cool stuff coming in the future ;)
 
 ## My Projects
 
-### [Batch Multitool](https://github.com/CorbinMakesStuff/Batch-Multitool)
+[Batch Multitool](https://github.com/CorbinMakesStuff/Batch-Multitool)
 
-### [Website Stealer](https://github.com/CorbinMakesStuff/Website-Stealer)
+[Website Stealer](https://github.com/CorbinMakesStuff/Website-Stealer)
 
-### [StartupLoader](https://github.com/CorbinMakesStuff/StartupLoader)
+[StartupLoader](https://github.com/CorbinMakesStuff/StartupLoader)
 
-### [Rickroll](https://github.com/CorbinMakesStuff/Rickroll)
+[Rickroll](https://github.com/CorbinMakesStuff/Rickroll)
 
 
 
