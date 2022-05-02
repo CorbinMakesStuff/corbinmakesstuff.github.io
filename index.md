@@ -1,6 +1,8 @@
-# Hello World!
+# `Hello World!`
 
-I'm Corbin, I develop using batch as of now but I am currently learning to develop with more mainstream languages.
+I'm Corbin, I make cool stuff.
+
+I used to develop using batch, but I am currently learning C#
 
 Cool stuff coming in the future ;)
 
