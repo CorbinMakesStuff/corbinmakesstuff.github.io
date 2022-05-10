@@ -7,13 +7,13 @@ I used to develop using batch, but I am currently learning C#
 Cool stuff coming in the future ;)
 
 
-## Maintained projects.
+## My projects.
 
 [NumberGame](https://github.com/CorbinMakesStuff/NumberGame)
 
 
 
-## Archived projects.
+## Old projects.
 
 [Batch Multitool](https://github.com/CorbinMakesStuff/Batch-Multitool)
 
