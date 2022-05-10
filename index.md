@@ -7,7 +7,13 @@ I used to develop using batch, but I am currently learning C#
 Cool stuff coming in the future ;)
 
 
-## My Projects
+## Maintained projects.
+
+[NumberGame](https://github.com/CorbinMakesStuff/NumberGame)
+
+
+
+## Archived projects.
 
 [Batch Multitool](https://github.com/CorbinMakesStuff/Batch-Multitool)
 
@@ -17,12 +23,4 @@ Cool stuff coming in the future ;)
 
 [Rickroll](https://github.com/CorbinMakesStuff/Rickroll)
 
-
-
-
-
-
-This website was last updated on:
-```
-4/21/2022
 ```
